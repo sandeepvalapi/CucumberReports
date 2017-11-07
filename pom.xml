@@ -74,5 +74,6 @@
 
 	<modules>
 		<module>Template</module>
+		<module>TestNgExample</module>
 	</modules>
 </project>
